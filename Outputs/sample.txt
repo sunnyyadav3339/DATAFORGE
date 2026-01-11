@@ -1,0 +1,33 @@
+Question: Summarise the full chapter: FIBRE TO FABRIC
+Answer:
+" The chapter "Fibre to Fabric" explains how fabrics are made from fibres. Here’s a simple summary:
+
+1. **Fibres**: These are the basic units used to make fabrics. Examples of fibres include cotton, silk, wool, and jute. Some fibres come from plants (like cotton and jute), while others come from animals (like silk and wool).
+
+2. **Yarn**: Fibres are twisted together to form yarns. This process is called spinning. Yarns are like long threads made from fibres.
+
+3. **Fabric**: Yarns are then woven together to make fabrics. Weaving is the process of arranging yarns in a crisscross pattern to create a strong and flexible material.
+
+4. **Types of Fabrics**: Different fibres and weaving methods result in different types of fabrics. For example, cotton fibres make soft and breathable fabrics, while wool fibres make warm fabrics.
+
+In short, the journey from fibre to fabric involves turning fibres into yarns through spinning and then weaving those yarns into fabrics. This process helps us create the clothes and materials we use every day. "
+
+Knowledge Graph:
+ Entities:
+- Fibres
+- Fabric
+- Yarns
+- Cotton
+- Silk
+- Wool
+- Jute
+- Weaving
+
+Relations:
+- Fibres -> used for -> Fabric
+- Yarns -> made up of -> Fibres
+- Fabric -> made from -> Yarns
+- Weaving -> process of -> making Fabric
+- Cotton, Silk, Wool, Jute -> examples of -> Fibres
+- Fibres -> processed into -> Yarns
+- Yarns -> woven into -> Fabric
